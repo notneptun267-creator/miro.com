@@ -929,11 +929,6 @@ img {
   border-bottom: 1px solid #ffd02f;
   padding-bottom: 1px;
 }
-
-.sariq-link:hover {
-  transform: translateX(4px);
-}
-
 .past-oxiri {
   padding-top: 40px;
   display: flex;
